@@ -1,0 +1,10 @@
+generated: '2026-10-22'
+method: derived
+source: "https://www.virginpulse.com/.well-known/mcp/server-card.json"
+deployment:
+  mode: none
+  endpoint: "https://www.virginpulse.com/.well-known/mcp/server-card.json"
+  install: ""
+  package: ""
+  auth: unknown
+  verified: derived
